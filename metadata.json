@@ -1,0 +1,5 @@
+{
+  "name": "Story Weaver AI",
+  "description": "Upload an image and let AI ghostwrite an opening paragraph for a story set in that world. Includes a 'Read Aloud' feature using an expressive AI voice.",
+  "requestFramePermissions": []
+}
